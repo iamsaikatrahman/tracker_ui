@@ -1,6 +1,6 @@
 # tracker_ui
 
-A new Flutter project.
+![tracker_ui](https://user-images.githubusercontent.com/75200754/118387375-069c4980-b640-11eb-8e2b-51d87b9e034c.png)
 
 ## Getting Started
 
